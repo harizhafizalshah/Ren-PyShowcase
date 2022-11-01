@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Ren'Py Basic Decision-making Game Demo
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Hariz
+    family-names: Hafizalshah
+    email: hariz.hafizalshah@live.iium.edu.my1
+    affiliation: >-
+      Department of Mechatronics Engineering, 
+      International Islamic University Malaysia
+  - affiliation: >-
+      Department of Mechatronics Engineering, 
+      International Islamic University Malaysia
+    given-names: Aimi
+    name-particle: Shazwani
+    family-names: Ghazali
+    email: aimighazali@iium.edu.my
+  - affiliation: >-
+      Department of Mechatronics Engineering, 
+      International Islamic University Malaysia
+    email: snaim@iium.edu.my
+    given-names: Shahrul
+    name-particle: Na'im
+    family-names: Sidek
